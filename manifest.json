@@ -1,0 +1,20 @@
+{
+  "name": "Meta Refresh + JSFoo",
+  "short_name": "Meta Refresh + JSFoo",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/?utm_source=app_homescreen",
+  
+  "theme_color": "#b22e40",
+  
+  "background_color": "#FAFAFA",
+  "description": "A community and conference on the construction of user experience on the web.",
+  
+  "icons": [
+    
+    {"src":"images/touch/metarefresh-icon-192.png","sizes":"192x192","type":"image/png"}
+    
+    
+  ]
+  
+}
